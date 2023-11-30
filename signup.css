@@ -1,0 +1,174 @@
+.signupform{
+    width: 360px;
+    height: 800px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.rectangle1{
+    width: 312px;
+    height: 48px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 48px;
+    margin-left: 24px;
+}
+.username{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: gray;
+    margin-top: 15px;
+    margin-left: 4px;
+}
+.rectangle2{
+    width: 312px;
+    height: 48px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 28px;
+    margin-left: 24px;
+}
+.email{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: gray;
+    margin-top: 16px;
+    margin-left: 4px;
+}
+.rectangle3{
+    width: 312px;
+    height: 48px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 28px;
+    margin-left: 24px;
+}
+.phonenumber{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: gray;
+    margin-top: 15px;
+    margin-left: 9px;
+}
+.rectangle4{
+    width: 312px;
+    height: 48px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 28px;
+    margin-left: 24px;
+    display: flex;
+    flex-direction: row;
+}
+.password{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: gray;
+    margin-top: 15px;
+    margin-left: 4px;
+}
+.img-password{
+    margin-top: 12px;
+    margin-left: 156px;
+}
+.rectangle5{
+    width: 312px;
+    height: 48px;
+    border: 1px solid #0E64D2;
+    background-color: #0E64D2;
+    border-radius: 10px;
+    margin-top: 29px;
+    margin-left: 24px;
+}
+.signup-button{
+    text-align: center;
+    color: white;
+    margin-top: 13px;
+}
+.group1{
+    display: flex;
+    flex-direction: row;
+}
+.already{
+    margin-top: 22px;
+    margin-left: 64px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+}
+.login{
+    margin-left: 8px;
+    margin-top: 23px;
+    color: #2F89FC;
+}
+.line-or{
+    display: flex;
+    flex-direction: row;
+}
+.line1{
+    border-top: 1px solid gray;
+    width: 139px;
+    margin-top: 32px;
+    margin-left: 24px;
+}
+.or{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 21px;
+    margin-left: 8px;
+}
+.line2{
+    border-top: 1px solid gray;
+    width: 139px;
+    margin-top: 31px;
+    margin-left: 9px;
+}
+.rectangle6{
+    width: 312px;
+    height: 48px;
+    border: 1px solid #1877F2;
+    border-radius: 10px;
+    background-color: #1877F2;
+    margin-top: 24px;
+    margin-left: 23px;
+    display: flex;
+    flex-direction: row;
+}
+.login-fb{
+    text-align: center;
+    color: white;
+    margin-top: 13px;
+    margin-left: 57px;
+    margin-top: 13px;
+}
+.img-fb{
+    margin-top: 7px;
+    margin-left: 15px;
+}
+.rectangle7{
+    width: 312px;
+    height: 48px;
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 28px;
+    margin-left: 23px;
+    display: flex;
+    flex-direction: row;
+}
+.login-gg{
+    text-align: center;
+    color: white;
+    margin-top: 13px;
+    margin-left: 57px;
+    margin-top: 13px;
+    color: gray;
+}
+.img-gg{
+    margin-top: 7px;
+    margin-left: 15px;
+}
